@@ -1,1 +1,3 @@
 # testGitFunctions
+
+## Testing git automation
